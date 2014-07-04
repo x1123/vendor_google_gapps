@@ -86,37 +86,24 @@ PRODUCT_COPY_FILES += \
     vendor/google/gapps/proprietary/system/usr/srec/en-US/wordlist:system/usr/srec/en-US/wordlist:google \
 
 PRODUCT_PACKAGES += \
-    Books \
     CalendarGoogle \
     CalendarProvider \
-	Chrome \
-    ChromeBookmarksSyncAdapter \
-    CloudPrint2.apk \
     ConfigUpdater \
     Drive \
-    GalleryGoogle \
     GenieWidget \
-    Gmail2 \
     GoogleBackupTransport \
     GoogleContactsSyncAdapter \
     GoogleEars \
-    GoogleEarth \
     GoogleFeedback \
-    GoogleHome \
     GoogleLoginService \
     GooglePartnerSetup \
     GoogleServicesFramework \
     GoogleTTS \
     Hangouts \
     Keep \
-    LatinImeGoogle \
-    Magazines \
     Maps \
-    MediaUploader \
-    Music2 \
     OneTimeInitializer \
     Phonesky \
-    PlayGames \
     PlusOne \
     PrebuiltGmsCore \
     QuickOffice \
@@ -125,7 +112,21 @@ PRODUCT_PACKAGES += \
     talkback \
     TimeService \
     Velvet \
-    Videos \
     Wallet \
-    YouTube \
+    
 
+# LatinImeGoogle \
+# Magazines \
+# PlayGames \
+# Gmail2 \
+# GoogleHome \
+# GoogleEarth \
+# Music2 \
+# Books \
+# YouTube \
+# Videos \
+# GalleryGoogle \
+# Chrome \
+# ChromeBookmarksSyncAdapter \
+# CloudPrint2.apk \
+# MediaUploader \
